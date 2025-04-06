@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "net.yak.glintless.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"CompassItemMixin",
+		"EnchantedBookItemMixin",
+		"EnchantedGoldenAppleItemMixin",
+		"EndCrystalItemMixin",
+		"ExperienceBottleItemMixin",
+		"ItemMixin",
+		"NetherStarItemMixin",
+		"PotionItemMixin",
+		"WrittenBookItemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
