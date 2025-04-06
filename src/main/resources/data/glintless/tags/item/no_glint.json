@@ -9,10 +9,6 @@
     "minecraft:shears",
     "minecraft:splash_potion",
     "minecraft:lingering_potion",
-    "minecraft:written_book",
-    {
-      "id": "expedition:flare_gun",
-      "required": false
-    }
+    "minecraft:written_book"
   ]
 }
